@@ -1,0 +1,14 @@
+layout_spectrum: 0.09387079
+typography_spectrum: 0.9532381
+color:
+  saturation: 0.8167789
+  lightness: 0.8264326
+  brandStrength: 0.9553308
+  rhythmicContrast: 0.6436153
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: NEON
