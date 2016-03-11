@@ -1,14 +1,26 @@
-layout_spectrum: 0.09387079
-typography_spectrum: 0.9532381
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.8167789
-  lightness: 0.8264326
   brandStrength: 0.9553308
-  rhythmicContrast: 0.6436153
+  lightness: 0.8264326
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#000000'
+    - '#FCFCFA'
+    - '#5D5C5B'
+    - '#C5C5BD'
+    - '#5C9116'
+  rhythmicContrast: 0.6436153
+typography_spectrum: 0.7831541
+layout_spectrum: 0.09387079
 name: NEON
