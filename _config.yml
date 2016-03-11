@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.7831541
 color:
-  saturation: 0.8167789
+  saturation: 0.6236559
   brandStrength: 0.9553308
-  lightness: 0.8264326
+  lightness: 0.5860215
   brandColors:
     - '#FFFFFF'
     - '#020202'
     - '#537716'
     - '#CECFCF'
     - '#9AFF01'
-  rhythmicContrast: 0.6436153
+  rhythmicContrast: 0.2473118
+typography_spectrum: 0.7831541
 layout_spectrum: 0.09387079
 name: NEON
